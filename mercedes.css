@@ -1,0 +1,134 @@
+body {
+	  background-color: black ; }
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: sticky; 
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+
+
+.a1 {
+	height:320px; 
+	width:100%;
+	
+	
+}
+.a2 {
+	height:200px; 
+	width:400px;
+}
+.a3 {
+	color: red ;
+	font-family: Georgia ;
+  text-shadow: 2px 2px 5px red; 
+ }
+ .a4 {
+ 	color: white ;
+ }
+ .a5 {
+ 	color: white ;
+
+ }
+//*.b1 { display: flex ;
+	justify-content: space-around;
+}*//
+.b0 img {
+	width: 420px;
+}
+.a6 {
+	color: red ;
+	font-family: Georgia ;
+  text-shadow: 2px 2px 5px red; 
+}
+.b2 {
+	margin-left: 10px ;
+	margin-top: 40px ;
+
+}
+.a6 { color: red ;
+	font-family: Georgia ;
+  text-shadow: 2px 2px 5px red;
+  font-weight: bold;
+
+}
+.a9 { width: 320px;
+   height: 300px               }
+.a91 {
+	color: red ;
+	font-family: Georgia ;
+  text-shadow: 2px 2px 5px red;
+  font-weight: bold;
+  margin-left: 100px;
+
+}
+
+.text {color: red ;
+	font-family: Georgia ;
+  text-shadow: 2px 2px 5px red; 
+  font-size: 30px;
+  margin-bottom: 10px
+	
+}
+.q1 {
+	margin-left: 20px;
+	padding-left: 20PX
+
+}
+.A66 {  padding-left: 40px;
+
+
+ } 
+ .text { 
+   width: 320px;
+  height: 50px;  
+  padding: 0px;
+  border: 3px solid red; 
+  margin-bottom: 0PX  
+
+
+  }
+ .A66 {   
+  width: 320px;
+  height: 300px;  
+  padding: 0px;
+  border: 3px solid red;
+} 
+.a77 {  margin-left: 40px; }
+.a88 {   margin-left: 40px; }
+.a6 { display: flex; }
+.a7 {color: red ;
+	font-family: Georgia ;
+  text-shadow: 2px 2px 5px red;
+  font-weight: bold;
+  margin-left: 100px;  }
+  .m8 { width: 100px;
+   border-radius: 20px 
+   }
